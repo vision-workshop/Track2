@@ -5,7 +5,7 @@
 ## Enviroment preparation
 1. Please clone this repo by
     ```
-    git clone https://github.com/Shancong-Mou/Track2.git
+    git clone https://github.com/vision-workshop/Track2.git
     cd Track2
     ```
 
@@ -27,7 +27,7 @@
     ```
 3. Dataset Download
 
-    Please download the datasets from here [data](bit.ly/VISION_Datasets_Track_2) and extract it to ```data``` folder.
+    Please download the datasets from here ```bit.ly/VISION_Datasets_Track_2``` and extract it to ```data``` folder.
 
 4. Checkpoint preparation 
 
