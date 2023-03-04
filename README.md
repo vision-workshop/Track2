@@ -94,4 +94,14 @@ https://eval.ai/web/challenges/challenge-page/1935/overview
     - ```Test phase```: Generated dataset submission for verification purpose.
         - Please pay attention that you **ONLY** have two chances to submit your generated dataset.
         - Notice that the MaskRCNN may have small randomness, please run your dataset mutiple times to get a sense of the averarge performance. We will repeat 3 times and use the average value as the final score.
-5. When submitting the generated dataset in the test phase, please also submit a technical report (at least 4 pages, following the CVPR tempalte at ```https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines```).
+5. Please also submit a technical report (at least 4 pages, following the CVPR tempalte at ```https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines```). 
+
+## Important dates
+|  |         |    
+| :---        |    :----:   |  
+| March 3rd - May 1st      | Dev phase       | 
+| April 1st - May 1st   | Test phase        |
+| May 1st  | Result Submission Deadline       |
+| May 7th   | Technical Report Submission Deadline        |
+| May 20th   | Winners Announcement        |
+|  |         |  
