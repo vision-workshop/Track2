@@ -92,6 +92,7 @@ https://eval.ai/web/challenges/challenge-page/1935/overview
 4. There are two phases in the challenge:
     - ```Dev phase```: you can submit your results multiple times and query test performance;
     - ```Test phase```: Generated dataset submission for verification purpose.
+        - Please put your generated dataset in a shared folder and email to ```vision.based.inspection@gmail.com``` , with title "Track2Submission -- [teamname]".
         - Please pay attention that you **ONLY** have two chances to submit your generated dataset.
         - Notice that the MaskRCNN may have small randomness, please run your dataset mutiple times to get a sense of the averarge performance. We will repeat 3 times and use the average value as the final score.
 5. Please also submit a technical report (at least 4 pages, following the CVPR tempalte at ```https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines```). 
