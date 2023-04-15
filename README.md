@@ -21,9 +21,9 @@
     ```
     Then install MMDetection
     ```
-    pip install -U openmim
-    mim install mmcv-full
-    pip install mmdet
+    pip install -U openmim==0.3.6
+    mim install mmcv-full==1.7.1
+    pip install mmdet==2.28.2
     ```
 3. Dataset Download
 
